@@ -25,7 +25,7 @@ reported to work correctly.
 The following command will fetch the [Ubuntu](https://www.ubuntu.com) image and
 install the tools.
 
-*Warning*: you will need at least 2Go of available RAM on your computer before
+*Warning*: you will need at least 2GB of available RAM on your computer before
 executing this command. Additionally, it takes a few minutes to execute.
 
 ```shell
