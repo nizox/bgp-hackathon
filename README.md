@@ -14,6 +14,8 @@ contains several BGP related tools.
   * bird 1.4.0 (http://bird.network.cz)
   * quagga 0.99.22.4 (http://www.quagga.net)
   * RIPEstat-text 0.23 (https://github.com/RIPE-NCC/ripestat-text)
+  * TaBi 1.0 (https://github.com/ANSSI-FR/tabi)
+  * MaBo 1.0 (https://github.com/ANSSI-FR/mabo)
 
 ## Installation
 

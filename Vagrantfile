@@ -23,6 +23,7 @@ Vagrant.configure(2) do |config|
     SHELL
 
   config.vm.provision "bgp-tools", type: "shell", path: "scripts/bgp-tools.sh"
+  config.vm.provision "bgp-hijacks", type: "shell", path: "scripts/bgp-hijacks.sh"
   config.vm.provision "ripe-tools", type: "shell", path: "scripts/ripe-tools.sh"
   config.vm.provision "kafka", type: "shell", path: "scripts/kafka.sh"
   config.vm.provision "openbmp", type: "shell", path: "scripts/openbmp.sh"
