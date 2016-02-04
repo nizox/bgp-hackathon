@@ -6,7 +6,7 @@ contains several BGP related tools.
 
 ## Installed tools
 
-  * BGPmon 7.4 (http://www.bgpmon.io)
+  * BGPmon 8.0-dev (http://www.bgpmon.io)
   * BGPStream 1.1.0 (https://bgpstream.caida.org)
   * OpenBMP 0.11.0-pre3 (http://www.openbmp.org)
   * Kafka 0.8.2.3 (http://kafka.apache.org)
