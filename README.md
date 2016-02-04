@@ -8,7 +8,8 @@ contains several BGP related tools.
 
   * BGPmon 8.0-dev (http://www.bgpmon.io)
   * BGPStream 1.1.0 (https://bgpstream.caida.org)
-  * OpenBMP 0.11.0-pre3 (http://www.openbmp.org)
+  * OpenBMP 0.12.0-pre2 (http://www.openbmp.org)
+  * Docker 1.9.1 (https://www.docker.com)
   * Kafka 0.8.2.3 (http://kafka.apache.org)
   * ExaBGP 3.4.13 (https://github.com/Exa-Networks/exabgp)
   * bird 1.4.0 (http://bird.network.cz)
